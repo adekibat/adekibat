@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adekibat
 - 👀 I’m interested in ... web development
-- 🌱 I’m currently learning ...javascripit
+- 🌱 I’m currently learning ...backend
 - 💞️ I’m looking to collaborate on ...every projects availabe for web pages
 - 📫 How to reach me ...
 
